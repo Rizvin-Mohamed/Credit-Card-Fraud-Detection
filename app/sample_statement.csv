@@ -1,0 +1,609 @@
+datetime,merchant,amount,city
+2026-04-01 11:04:00,Reliance Fresh,1349.58,Chennai
+2026-04-01 12:53:00,Cafe Coffee Day,272.38,Chennai
+2026-04-01 19:59:00,Uber,1113.54,Dindigul
+2026-04-02 14:53:00,Amazon,790.87,Chennai
+2026-04-02 17:20:00,Reliance Fresh,2340.41,Chennai
+2026-04-02 18:43:00,Cafe Coffee Day,776.65,Chennai
+2026-04-03 16:18:00,Zomato,197.75,Chennai
+2026-04-04 14:57:00,ACT Broadband,2008.49,Chennai
+2026-04-05 16:56:00,Local Kirana,2162.68,Chennai
+2026-04-05 23:25:00,Local Kirana,2457.81,Chennai
+2026-04-06 11:07:00,More Supermarket,2003.72,Chennai
+2026-04-06 15:41:00,Uber,1252.07,Chennai
+2026-04-07 10:45:00,Saravana Bhavan,614.79,Chennai
+2026-04-07 11:14:00,Myntra,1456.94,Chennai
+2026-04-07 15:47:00,Reliance Fresh,506.96,Chennai
+2026-04-07 17:44:00,Uber,340.98,Chennai
+2026-04-08 13:52:00,Spotify,191.47,Dindigul
+2026-04-08 17:06:00,Cafe Coffee Day,191.68,Chennai
+2026-04-09 10:02:00,BigBasket,1040.68,Chennai
+2026-04-09 13:30:00,Myntra,3186.18,Chennai
+2026-04-09 15:52:00,Cafe Coffee Day,469.48,Chennai
+2026-04-10 13:11:00,Uber,1471.89,Chennai
+2026-04-10 15:25:00,Zomato,263.85,Chennai
+2026-04-10 16:45:00,Indian Oil Petrol,1391.77,Chennai
+2026-04-11 12:50:00,Saravana Bhavan,281.6,Chennai
+2026-04-11 14:02:00,Indian Oil Petrol,910.97,Chennai
+2026-04-11 14:52:00,Cafe Coffee Day,765.38,Chennai
+2026-04-11 16:34:00,Amazon,1633.54,Chennai
+2026-04-11 20:31:00,BigBasket,504.84,Chennai
+2026-04-12 12:19:00,Swiggy,754.64,Chennai
+2026-04-12 14:21:00,Zomato,395.17,Chennai
+2026-04-12 18:38:00,Swiggy,758.81,Chennai
+2026-04-12 21:04:00,ACT Broadband,2363.16,Chennai
+2026-04-13 12:10:00,Cafe Coffee Day,265.15,Chennai
+2026-04-13 13:37:00,Airtel Recharge,2426.85,Chennai
+2026-04-13 14:49:00,More Supermarket,1618.64,Chennai
+2026-04-13 16:36:00,BigBasket,1861.07,Chennai
+2026-04-14 12:36:00,Uber,347.76,Chennai
+2026-04-14 12:43:00,Local Kirana,1904.89,Chennai
+2026-04-14 12:53:00,BookMyShow,453.1,Chennai
+2026-04-14 16:59:00,Netflix,587.3,Chennai
+2026-04-15 13:15:00,BigBasket,1585.3,Chennai
+2026-04-16 12:00:00,Swiggy,221.52,Chennai
+2026-04-16 14:34:00,Local Kirana,825.33,Chennai
+2026-04-16 15:09:00,Reliance Fresh,764.06,Chennai
+2026-04-16 16:02:00,Indian Oil Petrol,1465.55,Chennai
+2026-04-16 16:40:00,Cafe Coffee Day,271.34,Chennai
+2026-04-17 14:59:00,Swiggy,781.99,Chennai
+2026-04-17 15:50:00,Reliance Fresh,518.05,Chennai
+2026-04-18 11:38:00,Indian Oil Petrol,139.09,Chennai
+2026-04-18 12:18:00,Ola,630.22,Chennai
+2026-04-18 14:02:00,ACT Broadband,668.77,Chennai
+2026-04-18 14:52:00,Chennai Metro,947.56,Chennai
+2026-04-18 18:28:00,Myntra,614.15,Chennai
+2026-04-19 11:21:00,Reliance Fresh,338.87,Chennai
+2026-04-19 11:59:00,Flipkart,658.56,Chennai
+2026-04-19 13:16:00,Local Kirana,1793.91,Chennai
+2026-04-19 15:20:00,Ola,1428.79,Chennai
+2026-04-19 22:08:00,Local Kirana,1765.32,Chennai
+2026-04-20 10:05:00,More Supermarket,654.8,Chennai
+2026-04-21 11:05:00,Saravana Bhavan,484.55,Chennai
+2026-04-21 13:31:00,Local Kirana,1648.84,Chennai
+2026-04-21 13:56:00,More Supermarket,1656.61,Chennai
+2026-04-21 16:44:00,Chennai Metro,642.41,Chennai
+2026-04-22 08:34:00,BigBasket,2313.66,Chennai
+2026-04-22 13:16:00,Reliance Fresh,302.18,Chennai
+2026-04-23 13:18:00,Chennai Metro,999.32,Chennai
+2026-04-23 16:23:00,Zomato,897.8,Chennai
+2026-04-24 10:25:00,Cafe Coffee Day,778.29,Chennai
+2026-04-24 11:08:00,Uber,1389.09,Chennai
+2026-04-24 12:48:00,More Supermarket,1220.21,Chennai
+2026-04-24 14:24:00,Cafe Coffee Day,854.1,Chennai
+2026-04-24 18:43:00,Spotify,268.53,Chennai
+2026-04-24 18:52:00,More Supermarket,1415.92,Chennai
+2026-04-25 14:14:00,Zomato,484.52,Chennai
+2026-04-25 17:39:00,Chennai Metro,121.18,Chennai
+2026-04-26 08:17:00,TNEB Electricity,1443.68,Chennai
+2026-04-26 09:23:00,BigBasket,715.44,Chennai
+2026-04-26 14:35:00,Zomato,677.28,Chennai
+2026-04-26 14:49:00,Saravana Bhavan,205.28,Chennai
+2026-04-26 16:19:00,Saravana Bhavan,175.21,Chennai
+2026-04-26 17:08:00,Amazon,496.68,Chennai
+2026-04-26 17:43:00,Reliance Fresh,2420.83,Chennai
+2026-04-27 11:04:00,Uber,1142.15,Chennai
+2026-04-27 12:47:00,Myntra,2531.84,Chennai
+2026-04-27 17:09:00,Spotify,291.42,Chennai
+2026-04-27 17:11:00,Reliance Fresh,1481.88,Chennai
+2026-04-27 17:19:00,TNEB Electricity,775.2,Chennai
+2026-04-28 13:09:00,Indian Oil Petrol,467.43,Chennai
+2026-04-28 14:02:00,Flipkart,2734.95,Chennai
+2026-04-28 17:58:00,Swiggy,188.79,Chennai
+2026-04-29 08:03:00,Local Kirana,824.82,Chennai
+2026-04-29 14:17:00,Reliance Fresh,346.53,Chennai
+2026-04-29 14:59:00,Reliance Fresh,2285.07,Chennai
+2026-04-29 15:11:00,BigBasket,1226.32,Chennai
+2026-04-29 15:40:00,Zomato,283.83,Chennai
+2026-04-29 15:51:00,Reliance Fresh,713.83,Chennai
+2026-04-29 18:55:00,Local Kirana,1323.03,Chennai
+2026-04-30 13:24:00,Swiggy,844.27,Chennai
+2026-04-30 18:10:00,BigBasket,2478.85,Chennai
+2026-05-01 14:07:00,Indian Oil Petrol,482.6,Chennai
+2026-05-01 14:29:00,TNEB Electricity,2233.83,Chennai
+2026-05-01 18:58:00,Local Kirana,929.3,Dindigul
+2026-05-01 19:10:00,Uber,741.7,Chennai
+2026-05-01 23:26:00,Swiggy,224.95,Chennai
+2026-05-02 14:46:00,Ola,803.82,Chennai
+2026-05-02 15:13:00,BigBasket,568.03,Chennai
+2026-05-02 17:55:00,Amazon,2938.86,Chennai
+2026-05-02 17:59:00,Airtel Recharge,457.17,Chennai
+2026-05-02 18:38:00,Chennai Metro,1244.13,Chennai
+2026-05-03 09:13:00,Indian Oil Petrol,922.71,Chennai
+2026-05-03 10:51:00,Amazon,570.9,Chennai
+2026-05-03 14:45:00,Swiggy,484.3,Chennai
+2026-05-03 15:26:00,Uber,1465.35,Chennai
+2026-05-03 17:35:00,Myntra,3803.87,Chennai
+2026-05-03 19:09:00,Flipkart,1815.89,Chennai
+2026-05-04 11:25:00,Saravana Bhavan,767.2,Chennai
+2026-05-04 13:20:00,Zomato,227.63,Chennai
+2026-05-04 15:08:00,Indian Oil Petrol,356.67,Chennai
+2026-05-05 11:03:00,Ola,859.42,Chennai
+2026-05-05 12:38:00,Indian Oil Petrol,843.26,Chennai
+2026-05-05 12:58:00,Saravana Bhavan,380.72,Chennai
+2026-05-05 16:52:00,Swiggy,281.39,Chennai
+2026-05-05 18:44:00,BigBasket,984.69,Chennai
+2026-05-05 19:29:00,Saravana Bhavan,213.09,Chennai
+2026-05-06 09:47:00,Local Kirana,2220.41,Chennai
+2026-05-06 11:35:00,Indian Oil Petrol,506.39,Chennai
+2026-05-06 12:54:00,BookMyShow,172.22,Chennai
+2026-05-06 13:02:00,Cafe Coffee Day,771.86,Chennai
+2026-05-06 13:19:00,Ola,1158.69,Chennai
+2026-05-06 16:24:00,Netflix,173.98,Chennai
+2026-05-07 13:48:00,Indian Oil Petrol,489.18,Chennai
+2026-05-07 16:57:00,Saravana Bhavan,341.97,Chennai
+2026-05-07 17:49:00,Zomato,637.37,Chennai
+2026-05-08 07:28:00,ACT Broadband,1013.54,Chennai
+2026-05-08 20:53:00,Local Kirana,2022.24,Chennai
+2026-05-09 13:54:00,Airtel Recharge,902.37,Chennai
+2026-05-09 15:35:00,Uber,422.75,Chennai
+2026-05-09 15:38:00,Ola,213.62,Chennai
+2026-05-09 18:45:00,Reliance Fresh,753.8,Chennai
+2026-05-10 14:42:00,Uber,475.07,Chennai
+2026-05-10 20:11:00,Cafe Coffee Day,592.0,Chennai
+2026-05-11 07:33:00,Cafe Coffee Day,612.57,Chennai
+2026-05-11 12:36:00,Flipkart,3974.11,Chennai
+2026-05-11 16:53:00,Flipkart,3179.24,Chennai
+2026-05-11 18:18:00,Amazon,3946.17,Chennai
+2026-05-12 07:19:00,Cafe Coffee Day,662.44,Chennai
+2026-05-12 14:24:00,Zomato,797.07,Chennai
+2026-05-12 23:45:00,Airtel Recharge,827.74,Chennai
+2026-05-13 12:02:00,More Supermarket,2125.54,Chennai
+2026-05-13 23:13:00,Swiggy,735.69,Chennai
+2026-05-14 13:58:00,Flipkart,2712.94,Chennai
+2026-05-14 21:39:00,Cafe Coffee Day,230.81,Chennai
+2026-05-15 11:55:00,Cafe Coffee Day,888.49,Chennai
+2026-05-15 11:55:00,Zomato,683.67,Chennai
+2026-05-15 12:13:00,Saravana Bhavan,316.47,Chennai
+2026-05-15 13:15:00,Ola,671.98,Chennai
+2026-05-15 18:44:00,Local Kirana,542.37,Chennai
+2026-05-15 20:50:00,Flipkart,3522.72,Chennai
+2026-05-16 07:14:00,Chennai Metro,1291.75,Chennai
+2026-05-16 07:47:00,Flipkart,2581.66,Chennai
+2026-05-16 13:44:00,Reliance Fresh,1165.61,Chennai
+2026-05-16 18:07:00,Indian Oil Petrol,1243.73,Chennai
+2026-05-17 12:27:00,Airtel Recharge,933.33,Chennai
+2026-05-17 16:07:00,Zomato,641.64,Chennai
+2026-05-18 09:19:00,TNEB Electricity,1529.89,Chennai
+2026-05-18 13:57:00,Uber,1207.02,Chennai
+2026-05-18 18:02:00,More Supermarket,2242.26,Dindigul
+2026-05-19 11:14:00,Local Kirana,531.61,Chennai
+2026-05-19 12:09:00,BigBasket,930.51,Chennai
+2026-05-19 14:49:00,Flipkart,733.92,Chennai
+2026-05-19 20:27:00,Zomato,644.07,Chennai
+2026-05-20 09:29:00,Zomato,735.44,Chennai
+2026-05-20 13:25:00,Zomato,718.53,Chennai
+2026-05-20 13:46:00,Chennai Metro,278.51,Chennai
+2026-05-20 14:37:00,Myntra,3894.51,Chennai
+2026-05-20 15:43:00,More Supermarket,425.0,Chennai
+2026-05-21 13:20:00,Ola,1214.73,Chennai
+2026-05-21 14:18:00,Flipkart,2763.22,Chennai
+2026-05-21 17:18:00,Reliance Fresh,1401.63,Chennai
+2026-05-21 21:51:00,Reliance Fresh,2000.46,Chennai
+2026-05-23 11:24:00,Uber,1311.84,Chennai
+2026-05-23 13:54:00,Indian Oil Petrol,1361.54,Chennai
+2026-05-23 15:28:00,BigBasket,1807.47,Chennai
+2026-05-23 16:35:00,Saravana Bhavan,209.06,Chennai
+2026-05-23 17:38:00,Airtel Recharge,1721.79,Chennai
+2026-05-23 18:12:00,BigBasket,456.87,Dindigul
+2026-05-23 19:58:00,Local Kirana,1362.4,Chennai
+2026-05-24 12:59:00,Uber,1478.11,Chennai
+2026-05-24 17:27:00,Swiggy,654.2,Chennai
+2026-05-24 17:58:00,Ola,886.29,Chennai
+2026-05-24 21:25:00,BigBasket,1559.41,Chennai
+2026-05-25 14:11:00,Local Kirana,2333.42,Chennai
+2026-05-25 16:15:00,Zomato,314.14,Chennai
+2026-05-25 16:20:00,Indian Oil Petrol,1444.03,Chennai
+2026-05-25 18:21:00,Ola,551.08,Chennai
+2026-05-26 08:41:00,BigBasket,835.91,Chennai
+2026-05-26 10:56:00,Local Kirana,431.61,Chennai
+2026-05-26 11:12:00,Ola,1165.18,Chennai
+2026-05-26 11:32:00,More Supermarket,301.14,Chennai
+2026-05-26 13:13:00,Flipkart,3899.18,Chennai
+2026-05-26 14:38:00,Myntra,2010.61,Chennai
+2026-05-26 18:37:00,Saravana Bhavan,449.76,Chennai
+2026-05-27 13:15:00,Indian Oil Petrol,880.68,Chennai
+2026-05-27 14:57:00,Indian Oil Petrol,115.3,Chennai
+2026-05-27 15:49:00,Saravana Bhavan,667.32,Chennai
+2026-05-27 16:26:00,Saravana Bhavan,735.97,Chennai
+2026-05-27 17:32:00,Reliance Fresh,788.01,Chennai
+2026-05-27 17:52:00,Cafe Coffee Day,215.82,Chennai
+2026-05-28 15:08:00,BigBasket,714.31,Chennai
+2026-05-29 15:29:00,Spotify,517.22,Chennai
+2026-05-29 16:05:00,Swiggy,717.49,Dindigul
+2026-05-30 08:39:00,Zomato,336.22,Chennai
+2026-05-30 12:23:00,Chennai Metro,1176.04,Chennai
+2026-05-30 15:04:00,Reliance Fresh,2256.46,Chennai
+2026-05-30 18:19:00,Myntra,2675.93,Chennai
+2026-05-30 21:12:00,BookMyShow,458.14,Chennai
+2026-05-31 07:44:00,BigBasket,1324.67,Chennai
+2026-05-31 12:43:00,Ola,227.9,Dindigul
+2026-05-31 13:19:00,Swiggy,287.49,Chennai
+2026-05-31 18:35:00,BigBasket,1426.93,Chennai
+2026-06-01 07:38:00,Zomato,302.9,Chennai
+2026-06-01 08:39:00,Swiggy,596.79,Chennai
+2026-06-01 15:57:00,Swiggy,474.39,Chennai
+2026-06-01 17:53:00,Saravana Bhavan,318.94,Chennai
+2026-06-01 18:23:00,ACT Broadband,1554.69,Chennai
+2026-06-01 20:33:00,Zomato,617.66,Chennai
+2026-06-02 09:53:00,Saravana Bhavan,831.8,Chennai
+2026-06-02 15:15:00,Saravana Bhavan,895.14,Dindigul
+2026-06-02 16:09:00,Saravana Bhavan,808.85,Chennai
+2026-06-02 16:52:00,BigBasket,2042.34,Chennai
+2026-06-02 18:07:00,Ola,1141.12,Chennai
+2026-06-03 10:16:00,Local Kirana,1147.37,Chennai
+2026-06-04 14:44:00,More Supermarket,1941.35,Chennai
+2026-06-04 21:08:00,Ola,284.3,Chennai
+2026-06-05 10:00:00,More Supermarket,1721.84,Chennai
+2026-06-05 13:58:00,Indian Oil Petrol,746.77,Chennai
+2026-06-05 16:59:00,Uber,816.86,Chennai
+2026-06-06 09:32:00,Amazon,3492.28,Chennai
+2026-06-06 09:45:00,Spotify,137.03,Chennai
+2026-06-06 13:30:00,Amazon,3460.99,Chennai
+2026-06-06 15:06:00,Local Kirana,2002.19,Chennai
+2026-06-06 18:35:00,More Supermarket,1988.52,Chennai
+2026-06-07 09:15:00,BigBasket,1853.42,Chennai
+2026-06-07 20:51:00,Local Kirana,2230.45,Dindigul
+2026-06-08 08:01:00,Flipkart,1100.66,Chennai
+2026-06-08 11:07:00,Ola,344.08,Chennai
+2026-06-08 17:59:00,TNEB Electricity,1486.3,Chennai
+2026-06-08 18:50:00,Reliance Fresh,336.28,Chennai
+2026-06-09 21:49:00,Ola,150.23,Chennai
+2026-06-10 07:48:00,Flipkart,1470.68,Chennai
+2026-06-10 10:44:00,Swiggy,631.89,Chennai
+2026-06-10 12:44:00,ACT Broadband,1167.13,Chennai
+2026-06-10 13:14:00,BigBasket,2349.22,Chennai
+2026-06-10 14:21:00,Netflix,790.89,Chennai
+2026-06-10 15:48:00,Indian Oil Petrol,963.09,Chennai
+2026-06-10 21:16:00,BigBasket,1131.58,Chennai
+2026-06-11 07:23:00,More Supermarket,1555.61,Chennai
+2026-06-11 15:06:00,BookMyShow,787.25,Chennai
+2026-06-12 16:49:00,Ola,867.51,Chennai
+2026-06-12 16:54:00,Reliance Fresh,2452.05,Chennai
+2026-06-12 17:23:00,More Supermarket,698.91,Chennai
+2026-06-13 14:07:00,Spotify,299.15,Chennai
+2026-06-13 19:47:00,Flipkart,2826.95,Chennai
+2026-06-14 02:47:00,QuickPay Wallet XJ,48500.0,Delhi
+2026-06-14 10:28:00,BigBasket,1320.42,Chennai
+2026-06-14 11:32:00,Amazon,581.87,Chennai
+2026-06-14 13:13:00,Saravana Bhavan,239.18,Chennai
+2026-06-14 15:30:00,ACT Broadband,520.89,Chennai
+2026-06-14 18:22:00,Amazon,830.82,Chennai
+2026-06-14 18:24:00,Local Kirana,1525.25,Chennai
+2026-06-14 19:31:00,Saravana Bhavan,737.22,Chennai
+2026-06-14 20:24:00,Indian Oil Petrol,549.56,Chennai
+2026-06-15 20:50:00,Local Kirana,2145.95,Dindigul
+2026-06-15 22:28:00,Swiggy,788.97,Chennai
+2026-06-16 09:07:00,Zomato,528.96,Chennai
+2026-06-16 09:13:00,More Supermarket,1250.28,Chennai
+2026-06-16 14:33:00,Local Kirana,1081.62,Chennai
+2026-06-16 19:10:00,Swiggy,654.64,Chennai
+2026-06-18 07:42:00,Netflix,382.1,Chennai
+2026-06-18 07:46:00,BigBasket,2423.92,Dindigul
+2026-06-18 10:28:00,Saravana Bhavan,667.8,Dindigul
+2026-06-18 14:09:00,Reliance Fresh,2328.08,Chennai
+2026-06-18 16:07:00,BigBasket,962.09,Chennai
+2026-06-19 12:49:00,Zomato,282.27,Chennai
+2026-06-19 15:25:00,Zomato,849.58,Chennai
+2026-06-19 15:42:00,Netflix,481.03,Chennai
+2026-06-19 16:56:00,Ola,653.73,Chennai
+2026-06-20 12:45:00,Chennai Metro,131.73,Chennai
+2026-06-20 13:23:00,Chennai Metro,346.38,Chennai
+2026-06-20 16:57:00,BigBasket,1008.58,Chennai
+2026-06-20 17:15:00,Cafe Coffee Day,169.13,Chennai
+2026-06-20 17:20:00,Ola,1441.15,Chennai
+2026-06-20 17:43:00,Saravana Bhavan,372.27,Chennai
+2026-06-20 17:54:00,More Supermarket,973.1,Chennai
+2026-06-20 19:08:00,Chennai Metro,900.78,Chennai
+2026-06-21 11:22:00,Reliance Fresh,2242.88,Chennai
+2026-06-21 12:05:00,Local Kirana,456.74,Chennai
+2026-06-21 12:35:00,Reliance Fresh,1023.32,Chennai
+2026-06-21 13:20:00,Local Kirana,1172.16,Chennai
+2026-06-21 15:15:00,Swiggy,869.5,Chennai
+2026-06-22 17:39:00,Reliance Fresh,1526.68,Chennai
+2026-06-22 19:12:00,More Supermarket,2172.49,Chennai
+2026-06-22 21:01:00,Indian Oil Petrol,1101.42,Chennai
+2026-06-23 10:21:00,Saravana Bhavan,518.67,Chennai
+2026-06-23 11:11:00,Uber,220.8,Chennai
+2026-06-23 15:37:00,Cafe Coffee Day,352.42,Chennai
+2026-06-23 15:51:00,Reliance Fresh,1250.6,Chennai
+2026-06-24 08:14:00,Uber,1179.67,Chennai
+2026-06-24 15:22:00,More Supermarket,733.31,Chennai
+2026-06-24 17:11:00,TNEB Electricity,1736.08,Dindigul
+2026-06-24 18:13:00,More Supermarket,1132.28,Chennai
+2026-06-25 15:33:00,Local Kirana,1256.13,Chennai
+2026-06-26 16:55:00,Flipkart,2866.89,Chennai
+2026-06-26 16:57:00,BookMyShow,324.5,Chennai
+2026-06-26 17:53:00,Amazon,3303.04,Chennai
+2026-06-27 11:30:00,Zomato,806.8,Dindigul
+2026-06-27 13:08:00,Myntra,2333.82,Chennai
+2026-06-27 18:10:00,Swiggy,161.01,Chennai
+2026-06-28 16:24:00,Cafe Coffee Day,777.46,Chennai
+2026-06-28 20:05:00,Flipkart,735.78,Chennai
+2026-06-29 15:11:00,Reliance Fresh,608.4,Dindigul
+2026-06-29 17:41:00,BigBasket,963.33,Chennai
+2026-06-30 09:08:00,More Supermarket,796.71,Chennai
+2026-06-30 13:21:00,Zomato,664.31,Chennai
+2026-06-30 13:26:00,Reliance Fresh,1961.73,Chennai
+2026-06-30 14:28:00,Airtel Recharge,1635.47,Chennai
+2026-06-30 17:07:00,More Supermarket,2043.0,Chennai
+2026-06-30 17:47:00,Ola,1235.91,Chennai
+2026-06-30 18:28:00,Flipkart,1818.79,Chennai
+2026-06-30 18:47:00,Myntra,456.9,Chennai
+2026-07-01 17:21:00,Zomato,499.88,Chennai
+2026-07-01 22:48:00,More Supermarket,2387.45,Chennai
+2026-07-02 14:37:00,Flipkart,2214.16,Chennai
+2026-07-02 16:35:00,Indian Oil Petrol,1332.31,Chennai
+2026-07-02 17:55:00,Saravana Bhavan,871.65,Chennai
+2026-07-03 03:12:00,Intl Electronics Ltd,72999.0,Singapore
+2026-07-03 03:15:00,Intl Electronics Ltd,68999.0,Singapore
+2026-07-03 10:44:00,Spotify,376.55,Chennai
+2026-07-03 14:10:00,Saravana Bhavan,390.3,Chennai
+2026-07-03 14:20:00,Swiggy,279.7,Chennai
+2026-07-03 14:36:00,Cafe Coffee Day,670.9,Chennai
+2026-07-03 17:32:00,BigBasket,640.97,Chennai
+2026-07-03 17:57:00,Swiggy,878.45,Chennai
+2026-07-04 14:26:00,Spotify,594.77,Dindigul
+2026-07-04 14:56:00,Local Kirana,2061.95,Chennai
+2026-07-04 16:21:00,Local Kirana,751.86,Chennai
+2026-07-04 18:08:00,Cafe Coffee Day,628.34,Chennai
+2026-07-05 10:02:00,Local Kirana,2261.69,Chennai
+2026-07-05 10:51:00,BigBasket,1970.55,Chennai
+2026-07-05 14:31:00,Cafe Coffee Day,896.11,Chennai
+2026-07-05 17:01:00,Flipkart,443.39,Chennai
+2026-07-05 17:16:00,Indian Oil Petrol,210.01,Chennai
+2026-07-05 23:37:00,Cafe Coffee Day,702.53,Chennai
+2026-07-06 14:45:00,Uber,1412.69,Chennai
+2026-07-06 15:37:00,Chennai Metro,103.4,Dindigul
+2026-07-06 16:45:00,Myntra,2737.81,Chennai
+2026-07-07 11:38:00,Saravana Bhavan,757.89,Chennai
+2026-07-07 11:40:00,Flipkart,2334.78,Chennai
+2026-07-07 11:59:00,Ola,369.7,Chennai
+2026-07-07 14:24:00,Local Kirana,1276.67,Chennai
+2026-07-07 14:30:00,Reliance Fresh,810.58,Chennai
+2026-07-07 16:48:00,Ola,132.5,Chennai
+2026-07-08 13:31:00,Local Kirana,807.64,Chennai
+2026-07-08 15:38:00,Chennai Metro,1198.15,Chennai
+2026-07-08 20:41:00,Indian Oil Petrol,787.69,Chennai
+2026-07-09 15:53:00,Reliance Fresh,447.74,Chennai
+2026-07-09 18:24:00,Indian Oil Petrol,1457.08,Chennai
+2026-07-09 22:32:00,Swiggy,862.5,Chennai
+2026-07-09 23:07:00,Saravana Bhavan,248.06,Chennai
+2026-07-10 09:34:00,Zomato,201.85,Chennai
+2026-07-10 17:10:00,Cafe Coffee Day,180.19,Chennai
+2026-07-11 09:06:00,Cafe Coffee Day,298.25,Chennai
+2026-07-11 13:40:00,Cafe Coffee Day,409.66,Chennai
+2026-07-11 14:48:00,Saravana Bhavan,581.12,Chennai
+2026-07-12 11:03:00,Reliance Fresh,987.65,Chennai
+2026-07-12 13:26:00,Ola,906.44,Chennai
+2026-07-12 14:10:00,Amazon,3271.04,Chennai
+2026-07-12 16:57:00,Spotify,430.04,Chennai
+2026-07-13 09:06:00,ACT Broadband,1184.11,Chennai
+2026-07-13 14:10:00,Flipkart,2202.76,Chennai
+2026-07-14 13:50:00,Spotify,234.76,Chennai
+2026-07-15 11:55:00,BigBasket,1532.82,Chennai
+2026-07-15 12:52:00,Airtel Recharge,707.87,Chennai
+2026-07-15 15:15:00,Uber,1145.38,Chennai
+2026-07-15 15:47:00,Reliance Fresh,1759.6,Chennai
+2026-07-16 10:37:00,BigBasket,1824.44,Dindigul
+2026-07-16 13:54:00,More Supermarket,746.14,Chennai
+2026-07-17 12:56:00,BigBasket,1713.1,Chennai
+2026-07-17 14:41:00,Local Kirana,509.21,Chennai
+2026-07-17 20:58:00,Reliance Fresh,1346.23,Chennai
+2026-07-18 09:03:00,Ola,915.17,Chennai
+2026-07-18 12:47:00,Uber,859.52,Chennai
+2026-07-18 13:15:00,Myntra,1264.9,Chennai
+2026-07-19 14:46:00,ACT Broadband,767.98,Chennai
+2026-07-20 13:02:00,Zomato,478.68,Chennai
+2026-07-20 15:52:00,Saravana Bhavan,437.09,Dindigul
+2026-07-20 16:00:00,Saravana Bhavan,865.7,Chennai
+2026-07-20 16:17:00,Uber,162.28,Chennai
+2026-07-20 17:52:00,TNEB Electricity,1516.18,Chennai
+2026-07-21 11:15:00,Zomato,769.96,Chennai
+2026-07-21 12:40:00,Chennai Metro,714.51,Chennai
+2026-07-21 13:13:00,Local Kirana,1916.4,Chennai
+2026-07-21 13:15:00,Cafe Coffee Day,296.56,Dindigul
+2026-07-22 11:41:00,BigBasket,2282.43,Chennai
+2026-07-22 11:46:00,BookMyShow,617.77,Chennai
+2026-07-22 14:40:00,Local Kirana,388.21,Chennai
+2026-07-22 16:07:00,BookMyShow,489.12,Chennai
+2026-07-22 17:42:00,More Supermarket,1602.79,Chennai
+2026-07-22 19:24:00,Airtel Recharge,2061.37,Chennai
+2026-07-22 23:19:00,Saravana Bhavan,456.85,Chennai
+2026-07-23 08:38:00,Saravana Bhavan,610.14,Chennai
+2026-07-23 15:48:00,Swiggy,494.78,Chennai
+2026-07-24 09:20:00,Ola,1183.83,Chennai
+2026-07-24 17:08:00,Indian Oil Petrol,1197.43,Chennai
+2026-07-24 18:23:00,Local Kirana,755.45,Chennai
+2026-07-25 16:34:00,Reliance Fresh,1121.95,Chennai
+2026-07-27 09:28:00,Uber,981.3,Chennai
+2026-07-27 12:56:00,Amazon,2028.82,Chennai
+2026-07-27 15:24:00,Swiggy,697.36,Chennai
+2026-07-27 16:24:00,BigBasket,1862.54,Chennai
+2026-07-27 17:26:00,TNEB Electricity,506.28,Dindigul
+2026-07-28 07:11:00,Swiggy,706.21,Chennai
+2026-07-28 20:08:00,Swiggy,277.94,Chennai
+2026-07-29 10:56:00,Swiggy,186.84,Chennai
+2026-07-30 13:46:00,Local Kirana,2185.09,Chennai
+2026-07-30 14:48:00,BigBasket,1835.87,Chennai
+2026-07-30 17:14:00,Saravana Bhavan,815.82,Chennai
+2026-07-30 21:54:00,Spotify,483.63,Chennai
+2026-07-31 11:02:00,Swiggy,381.56,Chennai
+2026-07-31 14:31:00,Chennai Metro,1087.57,Chennai
+2026-07-31 18:40:00,Cafe Coffee Day,885.57,Chennai
+2026-07-31 18:52:00,More Supermarket,2446.97,Chennai
+2026-07-31 19:26:00,Zomato,819.79,Chennai
+2026-08-01 12:49:00,ACT Broadband,1006.72,Chennai
+2026-08-01 14:17:00,Swiggy,315.04,Chennai
+2026-08-02 12:28:00,More Supermarket,1261.73,Chennai
+2026-08-03 14:24:00,Zomato,174.03,Chennai
+2026-08-03 17:19:00,Flipkart,679.88,Chennai
+2026-08-04 10:05:00,Amazon,2630.45,Chennai
+2026-08-04 11:46:00,BigBasket,2496.94,Chennai
+2026-08-05 08:18:00,Cafe Coffee Day,722.37,Chennai
+2026-08-05 08:43:00,More Supermarket,1421.63,Chennai
+2026-08-05 14:45:00,BigBasket,2212.6,Chennai
+2026-08-06 10:04:00,Amazon,3447.75,Chennai
+2026-08-06 13:01:00,Indian Oil Petrol,1416.33,Chennai
+2026-08-06 17:17:00,BigBasket,898.5,Chennai
+2026-08-06 18:37:00,BigBasket,1598.43,Chennai
+2026-08-07 11:55:00,Uber,869.83,Chennai
+2026-08-07 19:21:00,Netflix,501.6,Chennai
+2026-08-07 20:03:00,TNEB Electricity,1052.33,Chennai
+2026-08-08 13:27:00,Chennai Metro,751.35,Dindigul
+2026-08-08 13:32:00,Local Kirana,1173.91,Chennai
+2026-08-08 13:38:00,Myntra,2696.57,Chennai
+2026-08-08 14:14:00,Swiggy,354.6,Chennai
+2026-08-08 14:47:00,ACT Broadband,1115.13,Chennai
+2026-08-08 16:05:00,More Supermarket,2003.51,Chennai
+2026-08-09 07:26:00,Swiggy,539.82,Chennai
+2026-08-09 13:33:00,Myntra,1292.45,Chennai
+2026-08-09 17:54:00,Swiggy,406.77,Chennai
+2026-08-10 14:52:00,Cafe Coffee Day,497.76,Chennai
+2026-08-11 09:48:00,Flipkart,464.21,Chennai
+2026-08-11 11:19:00,Cafe Coffee Day,158.39,Dindigul
+2026-08-11 12:52:00,Saravana Bhavan,286.12,Chennai
+2026-08-11 15:53:00,Saravana Bhavan,423.14,Chennai
+2026-08-12 17:12:00,Flipkart,3830.52,Chennai
+2026-08-12 17:13:00,Swiggy,683.56,Chennai
+2026-08-12 17:32:00,Cafe Coffee Day,511.93,Chennai
+2026-08-13 16:20:00,Myntra,1281.27,Chennai
+2026-08-13 16:46:00,Zomato,396.05,Chennai
+2026-08-13 17:44:00,Flipkart,2775.98,Chennai
+2026-08-14 08:37:00,BigBasket,849.01,Chennai
+2026-08-14 10:00:00,Ola,168.13,Chennai
+2026-08-14 12:12:00,Saravana Bhavan,371.26,Chennai
+2026-08-14 16:16:00,Swiggy,573.07,Chennai
+2026-08-14 18:55:00,Chennai Metro,182.89,Chennai
+2026-08-14 20:45:00,BigBasket,1896.54,Chennai
+2026-08-15 12:20:00,Saravana Bhavan,737.12,Chennai
+2026-08-15 16:11:00,Airtel Recharge,638.59,Chennai
+2026-08-16 11:34:00,Indian Oil Petrol,1095.88,Chennai
+2026-08-16 12:41:00,More Supermarket,2356.91,Chennai
+2026-08-16 13:58:00,Zomato,487.02,Chennai
+2026-08-16 14:34:00,Chennai Metro,675.37,Chennai
+2026-08-16 15:48:00,Cafe Coffee Day,595.14,Chennai
+2026-08-16 17:21:00,Reliance Fresh,1980.97,Chennai
+2026-08-16 19:13:00,More Supermarket,1166.98,Chennai
+2026-08-17 11:11:00,More Supermarket,2024.98,Chennai
+2026-08-17 17:43:00,More Supermarket,713.39,Chennai
+2026-08-18 11:08:00,BigBasket,1416.04,Dindigul
+2026-08-19 12:54:00,Local Kirana,519.7,Chennai
+2026-08-19 14:18:00,Amazon,2582.91,Chennai
+2026-08-19 17:54:00,Local Kirana,2421.61,Chennai
+2026-08-19 18:08:00,BigBasket,2377.12,Chennai
+2026-08-19 18:39:00,Myntra,719.44,Chennai
+2026-08-20 12:30:00,Saravana Bhavan,847.58,Chennai
+2026-08-20 20:49:00,Swiggy,750.43,Chennai
+2026-08-21 01:58:00,Crypto Exchange 24,35000.0,Mumbai
+2026-08-21 17:33:00,Zomato,474.25,Chennai
+2026-08-22 12:31:00,Myntra,442.51,Chennai
+2026-08-22 12:42:00,Saravana Bhavan,785.16,Chennai
+2026-08-22 13:18:00,Ola,384.71,Chennai
+2026-08-22 16:11:00,Zomato,691.38,Chennai
+2026-08-23 13:57:00,Swiggy,813.82,Chennai
+2026-08-23 15:08:00,Swiggy,245.46,Chennai
+2026-08-23 19:19:00,Swiggy,294.76,Chennai
+2026-08-23 19:37:00,Spotify,734.17,Chennai
+2026-08-24 12:16:00,Saravana Bhavan,479.18,Chennai
+2026-08-25 12:29:00,Swiggy,210.41,Chennai
+2026-08-26 13:16:00,Local Kirana,2086.11,Chennai
+2026-08-27 12:39:00,Cafe Coffee Day,223.56,Chennai
+2026-08-27 15:26:00,Zomato,864.19,Chennai
+2026-08-27 15:32:00,Local Kirana,1318.16,Chennai
+2026-08-27 16:04:00,Saravana Bhavan,164.28,Chennai
+2026-08-27 16:45:00,Ola,493.29,Chennai
+2026-08-27 19:08:00,Local Kirana,1406.99,Dindigul
+2026-08-28 10:55:00,More Supermarket,1053.29,Chennai
+2026-08-28 13:47:00,Cafe Coffee Day,702.39,Chennai
+2026-08-28 16:03:00,More Supermarket,1165.99,Chennai
+2026-08-28 18:47:00,Indian Oil Petrol,637.65,Chennai
+2026-08-30 11:01:00,Amazon,689.0,Chennai
+2026-08-30 12:15:00,Amazon,1826.2,Chennai
+2026-08-30 14:21:00,TNEB Electricity,2480.73,Chennai
+2026-08-30 15:06:00,Myntra,1956.37,Chennai
+2026-08-30 15:06:00,Chennai Metro,1452.05,Chennai
+2026-08-31 11:31:00,Swiggy,838.0,Chennai
+2026-08-31 14:37:00,Uber,1100.06,Chennai
+2026-08-31 16:22:00,Swiggy,729.26,Chennai
+2026-08-31 16:57:00,Ola,984.64,Chennai
+2026-08-31 21:42:00,Indian Oil Petrol,1343.83,Chennai
+2026-09-01 11:11:00,Myntra,1748.07,Chennai
+2026-09-01 11:21:00,Indian Oil Petrol,1497.48,Chennai
+2026-09-01 14:30:00,Amazon,1532.02,Chennai
+2026-09-01 14:38:00,Flipkart,3146.45,Chennai
+2026-09-01 17:46:00,BigBasket,1743.79,Chennai
+2026-09-01 18:04:00,Ola,1368.22,Chennai
+2026-09-02 04:05:00,Gift Card Store,25000.0,Kolkata
+2026-09-02 04:06:00,Gift Card Store,25000.0,Kolkata
+2026-09-02 08:27:00,BookMyShow,659.5,Chennai
+2026-09-02 19:28:00,Saravana Bhavan,760.98,Chennai
+2026-09-03 11:28:00,More Supermarket,393.61,Chennai
+2026-09-03 13:12:00,Cafe Coffee Day,343.07,Chennai
+2026-09-03 13:23:00,Myntra,1071.34,Chennai
+2026-09-03 16:21:00,Cafe Coffee Day,601.59,Chennai
+2026-09-04 08:07:00,Saravana Bhavan,777.48,Chennai
+2026-09-04 13:20:00,Swiggy,451.78,Chennai
+2026-09-05 12:02:00,Myntra,426.94,Chennai
+2026-09-06 13:20:00,Indian Oil Petrol,1147.79,Chennai
+2026-09-07 10:30:00,Amazon,1389.9,Chennai
+2026-09-07 11:03:00,More Supermarket,1506.2,Chennai
+2026-09-07 12:38:00,Amazon,529.24,Chennai
+2026-09-07 14:06:00,Swiggy,723.6,Chennai
+2026-09-07 15:29:00,ACT Broadband,629.44,Chennai
+2026-09-07 20:05:00,Zomato,852.61,Chennai
+2026-09-07 20:19:00,BigBasket,2193.39,Chennai
+2026-09-09 18:02:00,BigBasket,1083.9,Chennai
+2026-09-10 14:09:00,BigBasket,1825.71,Chennai
+2026-09-10 23:55:00,Unknown UPI Merchant,19999.0,Noida
+2026-09-12 12:32:00,Reliance Fresh,1539.3,Chennai
+2026-09-12 16:36:00,TNEB Electricity,1983.59,Chennai
+2026-09-13 07:49:00,Amazon,1376.1,Chennai
+2026-09-13 11:09:00,Swiggy,183.49,Chennai
+2026-09-13 12:41:00,Swiggy,648.26,Chennai
+2026-09-13 15:34:00,Flipkart,2849.51,Chennai
+2026-09-13 15:54:00,Zomato,760.86,Chennai
+2026-09-13 16:25:00,Saravana Bhavan,320.98,Chennai
+2026-09-13 20:47:00,TNEB Electricity,2348.65,Chennai
+2026-09-14 14:34:00,BigBasket,641.87,Chennai
+2026-09-14 14:38:00,Saravana Bhavan,543.82,Chennai
+2026-09-14 17:47:00,Uber,1490.2,Chennai
+2026-09-14 21:00:00,More Supermarket,579.2,Chennai
+2026-09-15 12:12:00,Saravana Bhavan,839.32,Chennai
+2026-09-15 14:12:00,Saravana Bhavan,408.11,Chennai
+2026-09-15 16:53:00,Myntra,1162.27,Chennai
+2026-09-16 12:36:00,Chennai Metro,298.08,Chennai
+2026-09-16 14:19:00,ACT Broadband,1542.74,Chennai
+2026-09-16 18:25:00,Cafe Coffee Day,227.25,Chennai
+2026-09-18 09:01:00,Myntra,2428.68,Chennai
+2026-09-18 15:30:00,Flipkart,3995.78,Chennai
+2026-09-18 15:56:00,Chennai Metro,614.43,Dindigul
+2026-09-18 18:06:00,BigBasket,1143.35,Chennai
+2026-09-19 12:30:00,More Supermarket,1182.98,Chennai
+2026-09-20 07:51:00,Reliance Fresh,2095.99,Chennai
+2026-09-20 10:05:00,Zomato,831.44,Chennai
+2026-09-20 11:16:00,Airtel Recharge,1533.27,Chennai
+2026-09-20 11:31:00,Cafe Coffee Day,203.89,Chennai
+2026-09-20 17:25:00,Indian Oil Petrol,825.9,Chennai
+2026-09-21 18:08:00,More Supermarket,1143.3,Chennai
+2026-09-21 19:45:00,Myntra,3988.04,Chennai
+2026-09-21 20:39:00,Uber,489.28,Chennai
+2026-09-22 09:50:00,Ola,92.24,Chennai
+2026-09-22 11:43:00,Chennai Metro,1230.11,Chennai
+2026-09-22 12:24:00,Indian Oil Petrol,915.39,Chennai
+2026-09-22 14:20:00,Saravana Bhavan,274.55,Chennai
+2026-09-22 21:47:00,Chennai Metro,1142.02,Chennai
+2026-09-23 12:18:00,Reliance Fresh,905.07,Chennai
+2026-09-23 14:15:00,Spotify,424.26,Chennai
+2026-09-23 15:08:00,BigBasket,1241.39,Chennai
+2026-09-24 13:58:00,Flipkart,2369.16,Chennai
+2026-09-24 15:36:00,Local Kirana,2032.62,Chennai
+2026-09-24 16:24:00,Saravana Bhavan,348.91,Chennai
+2026-09-25 02:20:00,Betting App Pay,15000.0,Hyderabad
+2026-09-25 10:54:00,Flipkart,3040.58,Chennai
+2026-09-26 15:01:00,Ola,124.01,Chennai
+2026-09-26 15:19:00,Ola,926.66,Chennai
+2026-09-26 18:41:00,Cafe Coffee Day,219.59,Chennai
+2026-09-26 19:01:00,Swiggy,778.04,Chennai
+2026-09-27 11:13:00,Local Kirana,821.54,Chennai
+2026-09-27 11:47:00,TNEB Electricity,1597.76,Chennai
