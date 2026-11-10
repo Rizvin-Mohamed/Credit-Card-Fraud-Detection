@@ -39,9 +39,11 @@ def score_statement(st):
     iso = IsolationForest(n_estimators=200, contamination=0.02, random_state=42)
     iso.fit(st[FEATURES])
 
-    raw = -iso.score_samples(st[FEATURES])
-    st["risk_score"] = ((raw - raw.min()) / (raw.max() - raw.min()) * 100).round()
-    st["level"] = pd.cut(st["risk_score"], bins=[-1, 59, 79, 100],
+    # Isolation Forest's anomaly score is already on a fixed 0-1 scale
+    # (about 0.4 = very normal, above 0.75 = very unusual), so a clean
+    # statement no longer gets a "100" just for being the oddest row.
+    st["risk_score"] = (-iso.score_samples(st[FEATURES]) * 100).round()
+    st["level"] = pd.cut(st["risk_score"], bins=[-1, 69, 74, 100],
                          labels=["🟢 Normal", "🟡 Check", "🔴 High risk"])
     return st, iso
 
