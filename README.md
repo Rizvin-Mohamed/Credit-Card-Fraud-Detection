@@ -1,6 +1,6 @@
 # 🛡️ SafeSpend — Explainable Fraud Detection
 
-**Live app:** _add your link here after deploying_
+**Live app:**  https://credit-card-fraud-detection-rizvin.streamlit.app
 
 SafeSpend checks a bank statement for suspicious transactions and explains every alert in plain language, e.g.:
 
